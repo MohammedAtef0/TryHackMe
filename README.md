@@ -1,2 +1,2 @@
 # TryHackMe
-Write-ups for TryHackMe
+**Write-ups for TryHackMe**
